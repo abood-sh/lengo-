@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857812194583",
+    "project_id": "lengo-37a4e",
+    "storage_bucket": "lengo-37a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857812194583:android:67ed80260bc0a383df5352",
+        "android_client_info": {
+          "package_name": "com.ymm.lengo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857812194583-qquosrnuhjoplncferh9udmqemee91u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOo_bDangaQttJFvwHJcG4pxFiH7rjXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857812194583-qquosrnuhjoplncferh9udmqemee91u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

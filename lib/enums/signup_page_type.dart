@@ -1,0 +1,5 @@
+enum SignupPageType {
+  SELECT_LANGUAGE,
+  SELECT_LEVEL,
+  SELECT_GENDER,
+}
